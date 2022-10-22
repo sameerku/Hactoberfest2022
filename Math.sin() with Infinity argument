@@ -1,0 +1,17 @@
+// infinity as argument
+
+let value1 = Math.sin(Infinity);
+
+console.log(value1);
+
+// negative infinity as argument
+
+let value2 = Math.sin(-Infinity);
+
+console.log(value2);    
+
+// Output: 
+
+// NaN
+
+// NaN 
